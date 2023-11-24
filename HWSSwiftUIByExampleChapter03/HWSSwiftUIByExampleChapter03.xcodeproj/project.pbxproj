@@ -12,6 +12,7 @@
 		1E204BA32B100B9D00CBD082 /* HowToFormatDatesInsideTextViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E204BA22B100B9D00CBD082 /* HowToFormatDatesInsideTextViews.swift */; };
 		1E204BA52B100D3A00CBD082 /* HowToMakeTextFieldUppercaseOrLowercaseUsingTextCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E204BA42B100D3A00CBD082 /* HowToMakeTextFieldUppercaseOrLowercaseUsingTextCase.swift */; };
 		1E204BA72B1011D400CBD082 /* HowToShowTextAndAnIconSideBySideUsingLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E204BA62B1011D400CBD082 /* HowToShowTextAndAnIconSideBySideUsingLabel.swift */; };
+		1E4981852B10BF4C000E05FF /* HowToMarkContentAsPlaceholderusingRedacted.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E4981842B10BF4C000E05FF /* HowToMarkContentAsPlaceholderusingRedacted.swift */; };
 		1E5B727F2B096AAC00DE68E9 /* HWSSwiftUIByExampleChapter03App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5B727E2B096AAC00DE68E9 /* HWSSwiftUIByExampleChapter03App.swift */; };
 		1E5B72812B096AAC00DE68E9 /* HowAdjustTextAligmentUsingMultilineTextAligment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5B72802B096AAC00DE68E9 /* HowAdjustTextAligmentUsingMultilineTextAligment.swift */; };
 		1E5B72832B096AAF00DE68E9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E5B72822B096AAF00DE68E9 /* Assets.xcassets */; };
@@ -25,6 +26,7 @@
 		1E204BA22B100B9D00CBD082 /* HowToFormatDatesInsideTextViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToFormatDatesInsideTextViews.swift; sourceTree = "<group>"; };
 		1E204BA42B100D3A00CBD082 /* HowToMakeTextFieldUppercaseOrLowercaseUsingTextCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToMakeTextFieldUppercaseOrLowercaseUsingTextCase.swift; sourceTree = "<group>"; };
 		1E204BA62B1011D400CBD082 /* HowToShowTextAndAnIconSideBySideUsingLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToShowTextAndAnIconSideBySideUsingLabel.swift; sourceTree = "<group>"; };
+		1E4981842B10BF4C000E05FF /* HowToMarkContentAsPlaceholderusingRedacted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToMarkContentAsPlaceholderusingRedacted.swift; sourceTree = "<group>"; };
 		1E5B727B2B096AAC00DE68E9 /* HWSSwiftUIByExampleChapter03.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HWSSwiftUIByExampleChapter03.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E5B727E2B096AAC00DE68E9 /* HWSSwiftUIByExampleChapter03App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HWSSwiftUIByExampleChapter03App.swift; sourceTree = "<group>"; };
 		1E5B72802B096AAC00DE68E9 /* HowAdjustTextAligmentUsingMultilineTextAligment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowAdjustTextAligmentUsingMultilineTextAligment.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				1E204BA22B100B9D00CBD082 /* HowToFormatDatesInsideTextViews.swift */,
 				1E204BA42B100D3A00CBD082 /* HowToMakeTextFieldUppercaseOrLowercaseUsingTextCase.swift */,
 				1E204BA62B1011D400CBD082 /* HowToShowTextAndAnIconSideBySideUsingLabel.swift */,
+				1E4981842B10BF4C000E05FF /* HowToMarkContentAsPlaceholderusingRedacted.swift */,
 				1E5B72822B096AAF00DE68E9 /* Assets.xcassets */,
 				1E5B72842B096AAF00DE68E9 /* Preview Content */,
 			);
@@ -161,6 +164,7 @@
 				1E204BA12B0FFC7200CBD082 /* HowToAddSpacingBetweenLettersInText.swift in Sources */,
 				1E5B727F2B096AAC00DE68E9 /* HWSSwiftUIByExampleChapter03App.swift in Sources */,
 				1E204BA52B100D3A00CBD082 /* HowToMakeTextFieldUppercaseOrLowercaseUsingTextCase.swift in Sources */,
+				1E4981852B10BF4C000E05FF /* HowToMarkContentAsPlaceholderusingRedacted.swift in Sources */,
 				1E204BA32B100B9D00CBD082 /* HowToFormatDatesInsideTextViews.swift in Sources */,
 				1E0E20A82B0E9A9D00FA1B3D /* HowToFormatTextIinsideTextViews.swift in Sources */,
 			);

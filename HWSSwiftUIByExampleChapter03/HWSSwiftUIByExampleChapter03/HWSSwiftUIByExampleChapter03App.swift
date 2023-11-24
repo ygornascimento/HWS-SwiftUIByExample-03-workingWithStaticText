@@ -11,7 +11,7 @@ import SwiftUI
 struct HWSSwiftUIByExampleChapter03App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HowToMarkContentAsPrivateUsingPrivacySensitive()
         }
     }
 }

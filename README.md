@@ -1,2 +1,2 @@
-# HWS-SwiftUIByExample-03-workingWithStaticText
-Chapter 3 - Working with static text
+# # Hacking With Swift - SwiftUI By Example Book - Chapter 03 - Working with Static Text
+Laying out text neatly.
